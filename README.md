@@ -1,7 +1,7 @@
 # ScanPay Payout Risk Desk
 
 Built by **Dastagiri Guduru**  
-Live Application: **[Launch Risk Desk Console](https://scanpay-risk-desk.loca.lt)**  
+Live Application: **[Launch Risk Desk Console](https://guduru-dastagiri.github.io/scanpay-risk-operations-desk/)**  
 Repository: **[github.com/GUDURU-DASTAGIRI/scanpay-risk-operations-desk](https://github.com/GUDURU-DASTAGIRI/scanpay-risk-operations-desk)**
 
 ---
